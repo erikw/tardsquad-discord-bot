@@ -5,7 +5,7 @@
 [![Lint Code Base](https://github.com/Tardsquad/tardsquad-discord-bot/actions/workflows/linter.yml/badge.svg)](https://github.com/Tardsquad/tardsquad-discord-bot/actions/workflows/linter.yml)
 [![Latest SemVer Tag](https://img.shields.io/github/v/tag/tardsquad/tardsquad-discord-bot?sort=semver&label=Latest%20Release&logo=linuxcontainers)](https://github.com/Tardsquad/tardsquad-discord-bot/tags)
 [![OSS Lifecycle](https://img.shields.io/osslifecycle/tardsquad/tardsquad-discord-bot)](https://github.com/Netflix/osstracker)
-[![SLOC](https://sloc.xyz/github/tardsquad/tardsquad-discord-bot)](#)
+[![SLOC](https://sloc.xyz/github/tardsquad/tardsquad-discord-bot?lower=true)](#)
 [![License](https://img.shields.io/github/license/tardsquad/tardsquad-discord-bot)](https://github.com/tardsquad/tardsquad-discord-bot/blob/master/LICENSE)
 
 
